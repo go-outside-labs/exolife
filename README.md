@@ -1,4 +1,4 @@
-# 🌎 Spectra of Earthshine 🌎
+# 🌎 Calculating the Spectra of Earthshine 🌎
 
 
 The detection of exolife is one of the most important goals for future space missions.
