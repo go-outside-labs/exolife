@@ -3,6 +3,8 @@
 
 The detection of exolife is one of the most important goals for future space missions.
 
+![](earth.png)
+
 Current space missions used to identify exoplanets include COROT, Spitzer and the Hubble Space Telescope, as well as the secondary extended mission of Deep Impact (EPOCh) which will observe the light reﬂected from exoplanets. 
 
 ESAs Darwin mission (estimated launch 2015) will aim to ﬁnd and study the properties and composition of Earth-like exoplanets in the infrared. 
